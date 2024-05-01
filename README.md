@@ -1,4 +1,3 @@
-=======
 # 🔍 Summary
 
 - [About](#-sobre)
