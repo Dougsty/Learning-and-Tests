@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Learning-and-Tests
-This is my repository for studies and script tests.
 =======
 # 🔍 Summary
 
@@ -28,4 +25,3 @@ The project was developed using the following technologies
 
 
 Developed by Douglas Costa
->>>>>>> master
